@@ -1,0 +1,4 @@
+LARC 1234 1999 lalalalal Copy Number: 1
+Boone 1234 1999 lalalalal Copy Number: 1
+LARC 1234 1999 lalalalal Copy Number: 2
+LARC 1234 1999 lalalalal Copy Number: 3
